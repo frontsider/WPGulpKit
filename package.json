@@ -1,0 +1,30 @@
+{
+  "name": "WPGulpKit",
+  "author": "Frontsider",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frontsider/WPGulpKit"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-filter": "^4.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-line-ending-corrector": "^1.0.1",
+    "gulp-merge-media-queries": "^0.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-order": "^1.1.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.5.3",
+    "gulp-uglifycss": "^1.0.6",
+    "main-bower-files": "^2.13.1"
+  }
+}

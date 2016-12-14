@@ -1,0 +1,27 @@
+{
+  "name": "sanitize.scss",
+  "authors": [
+    "Juan Manuel Garcia Junco M. <cokenrocknroll@gmail.com>"
+  ],
+  "description": "sanitize.css ported to sass",
+  "main": "_sanitize.scss",
+  "license": "MIT",
+  "homepage": "https://github.com/Juanelorganelo/sanitize.scss",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json"
+  ],
+  "_release": "e5517320e0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e5517320e0a8598adef52640cbcadb03068840e2"
+  },
+  "_source": "https://github.com/Juanelorganelo/sanitize.scss.git",
+  "_target": "*",
+  "_originalSource": "sanitize.scss"
+}
