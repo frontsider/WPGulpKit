@@ -8,8 +8,7 @@
     "tests"
   ],
   "dependencies": {
-    "normalize-css": "normalize.css#^5.0.0",
-    "sanitize.scss": "*"
+    "normalize-css": "normalize.css#^5.0.0"
   },
   "overrides": {}
 }
